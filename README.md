@@ -5,6 +5,10 @@ Mipow LED Light support for Homeassistant
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Prerequisites
+
+Home Assistant 0.38
+
 ### Installing
 
 First clone this repository
